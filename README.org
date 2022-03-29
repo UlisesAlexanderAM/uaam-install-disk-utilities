@@ -1,0 +1,10 @@
+* UAAM Install disk utilities
+
+My fish function to install disk utilities in an arch based system.
+
+Disk utilities installed:
+
+- Dust
+- NCDU
+- Dua
+- Dirstat-git
